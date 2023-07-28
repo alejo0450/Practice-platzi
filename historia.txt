@@ -18,3 +18,5 @@ New line after actually of github, <<<<<<<<<<<<<<<<<<<<<<<<<
 
 
 codigo en github nuevamente
+
+recibidos los cambios
