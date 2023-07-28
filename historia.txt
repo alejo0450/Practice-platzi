@@ -15,3 +15,6 @@ linea 1 despues de mixed  (aqui ta todo bien)
 NUEVA LINEA EDITADA DESDE GITHUB
 
 New line after actually of github, <<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+codigo en github nuevamente
